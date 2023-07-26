@@ -9,6 +9,7 @@ I believe that it takes perseverance and hard work to understand and create usef
 
 Any feedback or improvement is welcome!
 
+![Calorie Tracker](https://github.com/alexscespedes/calorie-tracker-python/assets/140555840/c9962bf7-9ccd-4312-a0e5-e9c56b10d609)
 
 
 
